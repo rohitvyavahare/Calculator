@@ -1,6 +1,14 @@
 # Calculator
 Technical test for job applicant: calculator 
 
+
+I have used the Interpreter Pattern to demonstrate calculator. 
+You can see there are two types of expressions are possible, Nonterminal expressions means values like 1,2,3 
+and Nonterminal Expression which are operators like "+", "-", "/", "*".
+We can easily extend it to add new operators or we can also add parenthesis to it.
+
+
+Problem Description :
 Description
 Your assignment is to write a calculator script. You do not need to provide an interface to the
 program, like a commandline or web interface. So don’t loose time on parsing input in any way
@@ -23,3 +31,6 @@ Objectives
 - demonstrate good algorithmic thinking
 - communication skills in discussing code implementations and vision
 - demonstrate insight in how code evolves over time 
+
+
+
