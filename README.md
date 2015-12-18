@@ -1,6 +1,4 @@
 # Calculator
-Technical test for job applicant: calculator 
-
 
 I have used the Interpreter Pattern to demonstrate calculator. 
 You can see there are two types of expressions are possible, Nonterminal expressions means values like 1,2,3 
